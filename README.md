@@ -23,7 +23,7 @@ U in MNCH is the solution we made, and is an application built as a game, to ins
 
 ## Get started
 
-# Installation list
+### Installation list
 
 You need to install a couple of things to get the app up and running:
 
@@ -41,7 +41,7 @@ You need to install a couple of things to get the app up and running:
 
 **If the environment is to be configured on Windows**, you can use your Microsoft credentials to login to Azure Data Studio/MS SQL Server. That means that there is no need to install Docker to get the environment up and running correctly.
 
-# Setup dev environment
+### Setup dev environment
 
 - If on MacOS or Linux: Install and open Docker Desktop.
   - Choose to install docker with the regular setting and skip the roles and uses.

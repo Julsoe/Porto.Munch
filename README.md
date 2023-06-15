@@ -1,23 +1,21 @@
-# Porto.U IN MNCH
+# What is U in MNCH?
 
-## What is U in MNCH?
-
-This project is made by eight students at Høyskolen Kristiania spring '23. The following people has participated in this project:
+This project is made by eight students at Høyskolen Kristiania spring '23. The following people has participated in this project under the group name 'Porto':
 
 - Tonje Karin Nordquist
-- Christopher Glommen Andresen
+- [Christopher Glommen Andresen](https://github.com/ChrisGloom1)
 - Thea Brenna
-- Maiken Jørgensen Edvardsen
+- [Maiken Jørgensen Edvardsen](https://github.com/ma1ken)
 - Anikken Thøring Sivertsen
-- Julie Søbo
+- [Julie Søbo](https://github.com/Julsoe)
 - Siri Dale
-- Ida Urszula Krech
+- [Ida Urszula Krech](https://github.com/Idakrh)
 
-### Description
+## Description
 
 The solution we have created is based on one of the cases given by MUNCH. We were presented with two different cases from product owner, and we chose the following case: How can we make young adults (18-25) more engaged in Munch, through innovative use of new technologies, forms of experience and interaction that argue for the physical art experience + How can we measure and visualize the effect of the engagement we create through innovative use of technology?
 
-### Why?
+## Why?
 
 U in MNCH is the solution we made, and is an application built as a game, to inspire and engage young adults to become interested in art. The game consists of clues and tasks to solve a mystery, which is based on a true story about some of Munch's paintings during WW2. The goal of the game is to find out what happened to the missing painting, and the true story will be revealed when the last clue is solved. The user will get small pieces of information about the story along the way from Munchgyver. He is the detective who has been working on the case and needs help from the user to solve the tasks and connect the pieces of the clues. By looking at the progress of the user, and how many of the users that complete the mystery, we can track the effect of the engagement we are creating.
 
